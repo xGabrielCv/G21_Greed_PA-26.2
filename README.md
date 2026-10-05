@@ -14,7 +14,7 @@
 ![Banco%20de%20Dados](https://img.shields.io/badge/banco%20de%20dados-nenhum%20(JSON)-lightgrey)
 ![Licença](https://img.shields.io/badge/licença-acadêmica-informational)
 
-Repositório de referência: `projeto-de-algoritmos-2026/G21_Greed_PA-26.2`
+Repositório: `projeto-de-algoritmos-2026/G21_Greed_PA-26.2`
 
 </div>
 
@@ -249,14 +249,6 @@ pytest -v
 ---
 
 <div align="center">
-  <h2>🎥 Apresentação</h2>
-</div>
-
-🔗 Link da apresentação será adicionado posteriormente.
-
----
-
-<div align="center">
   <h2>👩‍💻 Contribuidores</h2>
 </div>
 
@@ -283,6 +275,12 @@ pytest -v
 
 ---
 
+## 🎥 Apresentação
+
 <div align="center">
-  <sub>Projeto acadêmico desenvolvido para a disciplina de Projeto de Algoritmos — 2026.2</sub>
+  <a href="https://youtu.be/NIj0w0bZG4s" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Apresenta%C3%A7%C3%A3o-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Apresentação no YouTube">
+  </a>
 </div>
+
+
